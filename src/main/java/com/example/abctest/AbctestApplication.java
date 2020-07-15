@@ -10,6 +10,7 @@ public class AbctestApplication {
 		SpringApplication.run(AbctestApplication.class, args);
 		System.out.println("hi...00000");
 		System.out.println("hi...11111");
+		System.out.println("hi...33333");
 	}
 
 }
